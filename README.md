@@ -4,19 +4,6 @@ Este projeto tem como objetivo prever o risco de crédito de clientes com base e
 
 ---
 
-## 📋 Tabela de Conteúdos
-- [Visão Geral](#-visão-geral)
-- [Dataset](#-dataset)
-- [Tecnologias Utilizadas](#-tecnologias-utilizadas)
-- [Instalação](#-instalação)
-- [Como Usar](#-como-usar)
-- [Resultados](#-resultados)
-- [Melhorias Futuras](#-melhorias-futuras)
-- [Contribuição](#-contribuição)
-- [Licença](#-licença)
-
----
-
 ## 🌟 Visão Geral
 O projeto utiliza o dataset **German Credit Data**, que contém informações sobre clientes de um banco alemão. O objetivo é prever se um cliente é um bom pagador (baixo risco) ou mau pagador (alto risco). O modelo foi treinado utilizando algoritmos como Random Forest, Regressão Logística e XGBoost, e os resultados foram avaliados com métricas como AUC-ROC, precisão e recall.
 
