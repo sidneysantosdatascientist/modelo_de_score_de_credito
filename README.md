@@ -42,11 +42,3 @@ O dataset utilizado é o **German Credit Data**, disponível publicamente no [UC
 
 ---
 
-## ⚙ Instalação
-Para rodar o projeto localmente, siga os passos abaixo:
-
-1. Clone o repositório:
-   ```bash
-   git clone [https://github.com/sidneysantosdatascientist/modelo_de_score_de_credito]
-   cd modelo_de_score_de_credito
-
