@@ -4,12 +4,12 @@ Este projeto tem como objetivo prever o risco de crédito de clientes com base e
 
 ---
 
-## 🌟 Visão Geral
+##  Visão Geral
 O projeto utiliza o dataset **German Credit Data**, que contém informações sobre clientes de um banco alemão. O objetivo é prever se um cliente é um bom pagador (baixo risco) ou mau pagador (alto risco). O modelo foi treinado utilizando algoritmos como Random Forest, Regressão Logística e XGBoost, e os resultados foram avaliados com métricas como AUC-ROC, precisão e recall.
 
 ---
 
-## 📊 Dataset
+##  Dataset
 O dataset utilizado é o **German Credit Data**, disponível publicamente no [UCI Machine Learning Repository](https://archive.ics.uci.edu/ml/datasets/Statlog+(German+Credit+Data)). Ele contém 1000 entradas com 20 atributos, incluindo:
 - `status_conta`: Status da conta corrente.
 - `duracao_meses`: Duração do empréstimo em meses.
@@ -19,7 +19,7 @@ O dataset utilizado é o **German Credit Data**, disponível publicamente no [UC
 
 ---
 
-## 🛠 Tecnologias Utilizadas
+##  Tecnologias Utilizadas
 - **Python**: Linguagem de programação principal.
 - **Pandas**: Manipulação de dados.
 - **Scikit-learn**: Machine learning (Random Forest, Regressão Logística).
