@@ -47,5 +47,6 @@ Para rodar o projeto localmente, siga os passos abaixo:
 
 1. Clone o repositório:
    ```bash
-   git clone https://github.com/seu-usuario/score_credito.git
-   cd score_credito
+   git clone [https://github.com/sidneysantosdatascientist/modelo_de_score_de_credito]
+   cd modelo_de_score_de_credito
+
